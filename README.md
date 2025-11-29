@@ -39,7 +39,7 @@ node server.js
 5. Open in browser
 Navigate to http://localhost:3000
 
-##Usage
+## Usage
 For Students:
 *Register or log in.
 *Cast votes for active elections.
@@ -49,7 +49,7 @@ For Admins:
 *Create, edit, or delete elections.
 *View real-time vote counts.
 
-###**Contributing**
+### **Contributing**
 Contributions are welcomed!!
 1)Fork the repository
 2)Create a feature branch:
