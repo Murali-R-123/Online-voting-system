@@ -40,27 +40,28 @@ node server.js
 Navigate to http://localhost:3000
 
 ## Usage
-For Students:
-*Register or log in.
-*Cast votes for active elections.
-*Confirm vote submission.
-For Admins:
-*Log in using admin credentials.
-*Create, edit, or delete elections.
-*View real-time vote counts.
+# For Students:
+- Register or log in.
+- Cast votes for active elections.
+- Confirm vote submission.
+# For Admins:
+- Log in using admin credentials.
+- Create, edit, or delete elections.
+- View real-time vote counts.
 
 ### **Contributing**
 Contributions are welcomed!!
-1)Fork the repository
-2)Create a feature branch:
+-1)Fork the repository
+-2)Create a feature branch:
 git checkout -b feature/YourFeature
-3)Commit your changes:
+-3)Commit your changes:
 git commit -m "<your added feature>"
-4)Push to the branch:
+-4)Push to the branch:
 git push origin feature/YourFeature
-5)Open a Pull Request
+-5)Open a Pull Request
 
 ### **Contact**
-Author: R Muralidharan
-Email: rmurali132006@gmail.com
-GitHub: https://github.com/Murali-R-123
+
+-Author: R Muralidharan
+-Email: rmurali132006@gmail.com
+-GitHub: https://github.com/Murali-R-123
