@@ -60,7 +60,7 @@ git commit -m "<your added feature>"
 git push origin feature/YourFeature
 5)Open a Pull Request
 
-###**Contact**
+### **Contact**
 Author: R Muralidharan
 Email: rmurali132006@gmail.com
 GitHub: https://github.com/Murali-R-123
